@@ -5,7 +5,6 @@ from PIL import Image
 import pdfminer
 from pdfminer.high_level import extract_pages
 from pdfminer.layout import *
-from pdfminer import *
 
 
 def select_file():
